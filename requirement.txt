@@ -1,0 +1,10 @@
+pymupdf
+pytesseract
+pillow
+python-docx
+openai
+openai-whisper
+langchain
+python-dotenv
+openai==0.28
+langchain-community
