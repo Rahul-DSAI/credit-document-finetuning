@@ -108,4 +108,4 @@ Use:
 
 ## License
 
-Add a license only after confirming you have rights to publish the source code.
+Open Source
